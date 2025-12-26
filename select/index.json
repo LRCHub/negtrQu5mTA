@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "Billyeoon Goyangi (Do the Dance)",
+  "base_artist": "ILLIT",
+  "createdAt": "2025-12-26T11:36:41.310826Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Billyeoon Goyangi (Do the Dance)",
+      "artist": "ILLIT",
+      "has_synced": true,
+      "path": "select/01_Billyeoon_Goyangi_(Do_the_Dance)_ILLIT.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Billyeoon Goyangi (Do the Dance) (Sunlight Remix)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/02_Billyeoon_Goyangi_(Do_the_Dance)_(Sunlight_Remix)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Billyeoon Goyangi (Do the Dance) (slowed + reverb)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/03_Billyeoon_Goyangi_(Do_the_Dance)_(slowed_+_reverb)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Billyeoon Goyangi (Do the Dance) (Snail's House Remix)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/04_Billyeoon_Goyangi_(Do_the_Dance)_(Snail's_House_Remix)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Billyeoon Goyangi (Do the Dance) (Fig Tape remix)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/05_Billyeoon_Goyangi_(Do_the_Dance)_(Fig_Tape_remix)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Billyeoon Goyangi (Do the Dance) (Breakbot & Irfane remix)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/06_Billyeoon_Goyangi_(Do_the_Dance)_(Breakbot_&_Irfane_remix)_ILLIT.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Billyeoon Goyangi (Do the Dance) (Fig Tape Remix)",
+      "artist": "ILLIT & Fig Tape",
+      "has_synced": false,
+      "path": "select/07_Billyeoon_Goyangi_(Do_the_Dance)_(Fig_Tape_Remix)_ILLIT_&_Fig_Tape.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Billyeoon Goyangi (Do the Dance) (Breakbot & Irfane Remix)",
+      "artist": "ILLIT, Breakbot & Irfane",
+      "has_synced": false,
+      "path": "select/08_Billyeoon_Goyangi_(Do_the_Dance)_(Breakbot_&_Irfane_Remix)_ILLIT,_Breakbot_&_Irfane.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Billyeoon Goyangi (Do the Dance)",
+      "artist": "ILLIT",
+      "has_synced": false,
+      "path": "select/pl_01_Billyeoon_Goyangi_(Do_the_Dance)_ILLIT.txt"
+    }
+  ]
+}
